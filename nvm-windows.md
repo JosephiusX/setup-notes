@@ -13,4 +13,6 @@ How it works :
         nvm use <version>
         node -v
 
-        
+for linux:
+
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash                                                                    
